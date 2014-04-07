@@ -5,7 +5,7 @@ This is plugin for SublimeText for converting chars of ColorCode to uppercase(or
 
 ex: '#FFFFFF' <-> '#ffffff'
 
-![image](https://raw.github.com/tgfjt/Sublime-highlight-text/master/highlighttext.gif)
+![image](https://raw.github.com/tgfjt/Sublime-convert-colorcode/master/convertChars.gif)
 
 **Note**
 
