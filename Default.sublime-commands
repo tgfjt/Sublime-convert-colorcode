@@ -1,0 +1,12 @@
+[
+    {
+        "caption": "Colorcode Convert: Lower",
+        "command": "convert_lower_colorcode",
+        "args": {}
+    },
+    {
+        "caption": "Colorcode Convert: Upper",
+        "command": "convert_upper_colorcode",
+        "args": {}
+    }
+]

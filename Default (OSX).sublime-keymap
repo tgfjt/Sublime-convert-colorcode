@@ -1,0 +1,10 @@
+[
+    {
+        "keys": ["alt+shift+k", "alt+shift+l"],
+        "command": "convert_lower_colorcode"
+    },
+    {
+        "keys": ["alt+shift+k", "alt+shift+u"],
+        "command": "convert_upper_colorcode"
+    }
+]

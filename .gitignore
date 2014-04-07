@@ -1,0 +1,5 @@
+.DS_store
+*.sublime-workspace
+
+pip-log.txt
+*.log
