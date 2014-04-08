@@ -10,18 +10,20 @@
                         "children": [
                             {
                                 "args": {
-                                    "file": "${packages}/Sublime-convert-colorcode/Sublime-convert-colorcode.sublime-settings"
+                                    "file": "${packages}/Sublime-convert-colorcode/Default (OSX).sublime-keymap", 
+                                    "platform": "OSX"
                                 }, 
-                                "caption": "Settings – Default", 
+                                "caption": "Key Bindings – Default", 
                                 "command": "open_file"
-                            }, 
+                            },
                             {
                                 "args": {
-                                    "file": "${packages}/User/Sublime-convert-colorcode.sublime-settings"
+                                    "file": "${packages}/User/Default (OSX).sublime-keymap", 
+                                    "platform": "OSX"
                                 }, 
-                                "caption": "Settings – User", 
+                                "caption": "Key Bindings – User", 
                                 "command": "open_file"
-                            }, 
+                            },
                             {
                                 "caption": "-"
                             }
