@@ -9,7 +9,7 @@ python:
 install:
   - pip install pep8 --use-mirrors
 
-script: python test/* -v
+script: python tests/* -v
 
 after_script:
   - pep8 **/*.py
