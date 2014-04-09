@@ -15,6 +15,13 @@ ex: '#ffffff' <-> '#FFFFFF'
 
 ## Install
 
+### Package Control
+
++ `cmd + shift + p` in Mac, and type `install` -> `Package Control: Install Package`
++ type `convert colorcode` and select `Sublime convert colorcode`
+
+### Manually
+
 Clone or Copy this repo into the `Packages` directory.
 
 Default:

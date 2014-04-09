@@ -3,4 +3,4 @@
 
 pip-log.txt
 *.log
-.pyc
+*.pyc
